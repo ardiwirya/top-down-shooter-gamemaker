@@ -35,7 +35,11 @@ This project was built by following the tutorial series **[How to Make a Top Dow
 - Language: GML (GameMaker Language)
 - Art: Pixel-art sprites and tilesets
 
-## Getting Started
+## Download & Play
+
+Prebuilt Windows installer is available on the [Releases page](https://github.com/ardiwirya/top-down-shooter-gamemaker/releases/latest) — download and run it if you just want to play, no GameMaker installation needed.
+
+## Getting Started (from source)
 
 ### Prerequisites
 - [GameMaker Studio 2](https://gamemaker.io/en/download) installed (free tier is enough to open and run the project)
@@ -48,8 +52,6 @@ This project was built by following the tutorial series **[How to Make a Top Dow
 2. Open GameMaker Studio 2
 3. Open the project file: `TOP DOWN SHOOTER/TOP DOWN SHOOTER.yyp`
 4. Click Run
-
-A pre-exported Windows build (`install.exe`) is also included in the project folder if you just want to play without opening the IDE.
 
 ## Project Structure
 
