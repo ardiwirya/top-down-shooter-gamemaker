@@ -1,4 +1,4 @@
-# Top-Down Shooter - Survival Zombie Siege
+# Top-Down Shooter - Survival Zombie Siege 🎮
 
 A 2D top-down zombie survival shooter built with GameMaker Studio 2. The player fights off waves of zombies, picks up weapons scattered around the map, and survives for as long as possible.
 
